@@ -39,7 +39,7 @@
         * Story
     * Donate Details
     * Newsletter sign-up
-    * Shop button
+    * Shop Details
 * Blog
     * Stories
     * Staff
